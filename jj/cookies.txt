@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+academy.manag.project.viewcert.org	TRUE	/	FALSE	1999999999	PHPSESSID	638035d81f0e312532443959a283d6c5
+
